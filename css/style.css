@@ -1,0 +1,14 @@
+:root{
+    --bgcolor: rgba(255, 255, 255, 0.6);
+    --fontsize: 16px;
+    --headingcolor: rgb(255, 108, 3);
+}
+
+body{
+    background-color: var(--bgcolor);    
+}
+
+
+
+
+
